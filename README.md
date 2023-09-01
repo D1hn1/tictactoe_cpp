@@ -1,6 +1,3 @@
-```cpp
-int main() {
-    const char* text = "TicTacToe in CPP";
-    return 0; 
-}
+```html
+<h1> Tic Tac Toe in C++ </h1>
 ```
