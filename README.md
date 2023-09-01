@@ -1,8 +1,6 @@
 ```cpp
 int main() {
-
-- TicTacToe on C++
-
+    const char* text = "TicTacToe in CPP";
     return 0; 
 }
 ```
