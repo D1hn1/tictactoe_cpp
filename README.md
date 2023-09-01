@@ -1,1 +1,10 @@
-# tictactoe_cpp
+```cpp
+int main() {
+```
+
+- TicTacToe on C++
+
+```cpp
+    return 0; 
+}
+```
